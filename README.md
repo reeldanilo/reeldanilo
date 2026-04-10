@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi 👋, I'm Danilo <br>Full-stack developer in front-end (HTML, CSS, JavaScript) and back-end (C#, Java, SQL) development.
+Hi 👋, I'm Danilo 
+Full-stack developer
 
 
 # 💻 Tech Stack:
